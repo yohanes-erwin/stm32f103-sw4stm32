@@ -1,2 +1,2 @@
-*.rb linguist-language=C
+*.c linguist-language=C
 jc_ansiterm_0.1/* linguist-vendored=true
