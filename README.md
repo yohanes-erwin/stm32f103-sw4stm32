@@ -1,7 +1,8 @@
-Copyright (c) 2016 Erwin Ouyang
+# Programming STM32F103 (Blue Pill) by Examples
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+These simple programs demonstrate how to use STM32F103 peripherals, and also how to interface with sensors, and actuators. The programs are based on the STM32 HAL.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/erwin168?locale.x=en_US)
